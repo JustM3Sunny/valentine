@@ -1,4 +1,4 @@
-# 💖 To My Forever Valentine
+# 💖 For someOne Valentine
 
 A beautiful and romantic webpage dedicated to expressing love through stories, special moments, and memories. Built with **HTML**, **TailwindCSS**, and a touch of creativity to create a heartfelt presentation of your love journey.
 
@@ -53,4 +53,4 @@ A beautiful and romantic webpage dedicated to expressing love through stories, s
 
 1. Clone this repository:
    ```bash
-   git clone 
+   git clone https://github.com/JustM3Sunny/valentine.git
