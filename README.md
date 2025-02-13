@@ -3,7 +3,7 @@
 A beautiful and romantic webpage dedicated to expressing love through stories, special moments, and memories. Built with **HTML**, **TailwindCSS**, and a touch of creativity to create a heartfelt presentation of your love journey.
 
 ---
-Live [](http://lovuu.netlify.app)
+ [Live](http://lovuu.netlify.app)
 
 ## 🌟 Features
 
