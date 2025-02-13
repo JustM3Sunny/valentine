@@ -55,3 +55,13 @@ A beautiful and romantic webpage dedicated to expressing love through stories, s
 1. Clone this repository:
    ```bash
    git clone https://github.com/JustM3Sunny/valentine.git
+
+ Open the index.html file in any browser to view the page.
+
+📷 Image Credits
+All placeholder images are sourced from Pixabay and iStock.
+
+❤️ Acknowledgments
+This project was created as a heartfelt dedication to love stories everywhere. Customize it for your special someone to create a beautiful, digital expression of your journey together.
+
+Let me if you want One......
