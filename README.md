@@ -55,8 +55,33 @@ A beautiful and romantic webpage dedicated to expressing love through stories, s
 1. Clone this repository:
    ```bash
    git clone https://github.com/JustM3Sunny/valentine.git
+   ```
 
- Open the index.html file in any browser to view the page.
+2. Open the `index.html` file in any browser to view the page.
+
+### Deploy to GitHub Pages
+
+To deploy this project to GitHub Pages:
+
+1.  **Create a GitHub repository:** If you haven't already, create a new repository on GitHub for your project.
+
+2.  **Push your code:** Push your local repository to your GitHub repository.
+
+    ```bash
+    git remote add origin <your-github-repository-url>
+    git branch -M main
+    git push -u origin main
+    ```
+
+3.  **Enable GitHub Pages:**
+
+    *   Go to your repository on GitHub.
+    *   Click on "Settings".
+    *   Scroll down to the "GitHub Pages" section.
+    *   In the "Source" section, select the `main` branch (or `master` if that's your default branch) and `/ (root)` from the dropdown menu.
+    *   Click "Save".
+
+4.  **Access your deployed site:** GitHub Pages will provide you with a URL where your site is deployed (usually `https://<your-username>.github.io/<your-repository-name>`).  It may take a few minutes for the site to deploy after enabling GitHub Pages.
 
 📷 Image Credits
 All placeholder images are sourced from Pixabay and iStock.
